@@ -27,3 +27,11 @@ footer {
   padding: $footer-padding;
   text-align: center;
 }
+
+
+footer a {
+  color: #333;
+  font-size: $h3;
+  font-weight: 300;
+  background-image: none;
+}

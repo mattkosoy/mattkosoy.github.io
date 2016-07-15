@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Matt Kosoy
+email:       matt.kosoy@gmail.com
+author:      Matt Kosoy
+description: "All of the words."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://mattkosoy.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -17,14 +17,14 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
-ajaxify_contact_form: false
+show_social_icons:    true
+ajaxify_contact_form: true
 enable_mathjax: false
-extended_fonts: false
-enable_anchorjs: false
+extended_fonts: true
+enable_anchorjs: true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -37,14 +37,14 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: mattkosoy
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: mattkosoy
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: matthew-kosoy-37528aa4
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -66,8 +66,8 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Forth'
+    older: 'Back'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
@@ -88,13 +88,13 @@ text:
   contact:
     email:    'Email Address'
     content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
+    subject:  'What up!'
+    submit:   'Send it.'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Thanks for your email. I will reply as soon as possible.'
   og_locale: 'en_US'
 
 # Build settings
