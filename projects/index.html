@@ -7,13 +7,11 @@ tags: projects
 
 <div class="py2">
   {% for page in site.pages %}
-   {{ page.title }}
 
-
-<!--    {% if page.page-category == "category 1" %}
-        {{ page.content }}
+   {% if page.page-category == "project" %}
+        <a href="{{page.permalink}}">{{ page.title }}</a>
    {% endif %}
- -->{% endfor %}
+{% endfor %}
 
 
 </div>
