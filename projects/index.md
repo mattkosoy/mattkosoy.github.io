@@ -27,9 +27,7 @@ tags: projects
               {{ project.excerpt }}
             {% endif %}
           </p>
-          {% if project.image %}
-          <img class="block mx-auto" src="{{project.image}}" alt="{{project.title}}" />
-          {% endif %}
+         
         </div>
       {% endif %}
       {% endfor %}
