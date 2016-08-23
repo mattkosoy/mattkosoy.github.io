@@ -4,6 +4,7 @@ title:      The Gardener's Metaphor
 date:       2016-07-28 00:00:00
 summary:    A holistic apporach to managing, migrating, and mitigating legacy systems.
 categories: opinion
+published: false
 ---
 
 ## Introduction 
