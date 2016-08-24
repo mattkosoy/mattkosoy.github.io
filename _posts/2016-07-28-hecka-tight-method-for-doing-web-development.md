@@ -17,8 +17,12 @@ summary:    My buddy Tony asked what my best practices are for getting a front e
 
 A couple weeks ago my buddy <a href="https://tonyvoorhees.github.io/">Tony</a> asked if I could help him get his laptop set up for doing web development. There are a <a href="https://mallinson.ca/osx-web-development/">variety</a> <a href="https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/">of</a> <a href="https://www.reddit.com/r/webdev/comments/45mkks/best_practice_web_development_environment_for_osx/"> approaches</a> for how you could go about doing this. This post is my suggestion for getting things set up relatively quickly and efficiently.  This post is not the _definitve_ way to get things set up. I'm not going to deep dive into some of the tangental topics that are spawned here. Those things are fodder for another post in the future. As always, you should always use the methods that works best for you.
 
+<div class="clearfix">
+<img src="/images/tony.jpg" alt="Mr. Tony Voorhees" />
+<footer>Tony Voorhees</footer>
+</div>
 
-<a href="http://tony.activenative.com/">Tony Voorhees</a> is a San Francisco based artist, art director, and designer. He's been a friend and colleauge for just about twenty years now. He has over a decade of experience designing systems for small businesses, design agencies and product companies.  His most recent position was on the design team at <a href="https://www.draftkings.com/">Draftkings</a>.
+<a href="http://tonyvoorhees.com/">Tony Voorhees</a> is a San Francisco based artist, art director, and designer. He's been a friend and colleauge for just about twenty years now. He has over a decade of experience designing systems for small businesses, design agencies and product companies.  His most recent position was on the design team at <a href="https://www.draftkings.com/">Draftkings</a>.
 
 <a href="/about">I</a> am the author of this website, and (more importantly) am <a href="https://www.instagram.com/explore/tags/zainabkosoy/">Zainab's</a> dad.
 
