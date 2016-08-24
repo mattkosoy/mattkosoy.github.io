@@ -45,7 +45,3 @@ The `USERNAME/USERNAME.github.io` bit should correspond to the repository you cr
 
 Boom! You should be able to see your site at `https://username.github.io`.
 
-## Working with git
-
-For the past 3 or 4 years I have been following a the recommendations published in <a href="https://github.com/thoughtbot/guides/tree/master/protocol/git">this open source worfklow protocol</a>. This is an excellent point of reference, and I highly recommend reading it.
-
