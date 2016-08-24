@@ -4,7 +4,7 @@ email:       matt.kosoy@gmail.com
 author:      Matt Kosoy
 description: "All of the words."
 baseurl:     ""
-url:         "http://mattkosoy.github.io"
+url:         "http://mattkosoy.com"
 date_format: "%b %-d, %Y"
 
 # Google services
