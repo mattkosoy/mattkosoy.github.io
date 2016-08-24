@@ -2,7 +2,7 @@
 layout:     post
 title:      Using the Jekyll for the website.
 date:       2016-08-22 00:00:00
-summary:    This is how I helped my buddy Tony get up and running with Jekyll, the static site generator.
+summary:    This is how I helped Tony V get up and running with Jekyll, the static site generator.
 ---
 
 ## TL;DR: 
