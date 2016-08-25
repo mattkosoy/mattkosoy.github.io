@@ -8,13 +8,13 @@ url:         "http://mattkosoy.com"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_verification:
+google_verification: x7dn8VV-eyEKZME-N_qdPOiBm1NFVwkfQmK_doqNq58
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-34401370-1
 google_tag_manager:
 # Bing services
-bing_verification:
+bing_verification: 8B482DB3842052EC8BA75FAAB8D50A33
 
 # Optional features
 animated:             true
