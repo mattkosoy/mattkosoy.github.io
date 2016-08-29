@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*!
 
-Pixyll
+Matt Kosoy's Modified Pixyll jawn
 
 A simple, beautiful theme for Jekyll that emphasizes content rather than
 aesthetic fluff.
@@ -31,4 +31,11 @@ body {
           box-sizing: border-box;
      -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+}
+
+.yosup{
+  background-image: url(/images/mk.jpg);
+  min-height: 20em;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
