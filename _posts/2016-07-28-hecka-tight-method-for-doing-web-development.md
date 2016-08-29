@@ -31,6 +31,8 @@ Since Tony is a designer He was put off by how the new-fangled tools that develo
 
 ## Terminal life and Laptop. 
 
+![Photo credit: imgur](http://i.imgur.com/X93Jm9T.gif)
+
 The <a href="https://en.wikipedia.org/wiki/Terminal_(OS_X)">terminal</a> is a <a href="https://en.wikipedia.org/wiki/Command-line_interface">command line interface</a> application. You can do everything in the terminal that you can do in the finder, but faster and with even more control. Using the terminal is like driving a manual transmission automobile compared to an automatic. You have much more control over your experience. There are a ton of <a href="https://en.wikipedia.org/wiki/Comparison_of_terminal_emulators">different terminal applications</a> out there. I have used <a href="https://www.iterm2.com/">iterm</a> as my terminal for more than 5 years now. I still use the <a href="http://osxdaily.com/2011/01/03/split-terminal-mac-iterm2/">split pane</a> feature every day.
 
 Now that I got Tony up to speed on what the terminal really was it was time to install some programs that are commonly used to do web development. I opened up a new tab in chrome and searched for "<a href="https://github.com/thoughtbot/laptop">Laptop</a> by <a href="https://thoughtbot.com/">Thoughtbot</a>. I greatly appreciate the open source things that Thoughtbot has put out there.
