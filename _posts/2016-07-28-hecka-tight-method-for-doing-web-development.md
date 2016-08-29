@@ -7,7 +7,7 @@ summary:    A very fast way to get up and running with a local web development e
 
 ## TL;DR: 
 
-* <a href="https://tonyvoorhees.github.io/">Tony</a> asked me for some help getting set up
+* <a href="https://tonyvoorhees.github.io/">Tony Voorhees</a> asked me for some help getting set up to do development with javascript.
 * Fork and run <a href="https://github.com/thoughtbot/laptop">laptop</a>.
 * Alias commonly used <a href="https://gist.github.com/mattkosoy/74b50b06787aa3a09d8c">git commands</a>.
 * I like <a href="https://github.com/robbyrussell/oh-my-zsh">ohmyzsh</a> with the <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/themes#pygmalion">pygmalion theme</a>. Sorry not sorry.
@@ -15,20 +15,19 @@ summary:    A very fast way to get up and running with a local web development e
 
 ## Introduction
 
-A couple weeks ago my buddy <a href="https://tonyvoorhees.github.io/">Tony</a> asked if I could help him get his laptop set up for doing web development. There are a <a href="https://mallinson.ca/osx-web-development/">variety</a> <a href="https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/">of</a> <a href="https://www.reddit.com/r/webdev/comments/45mkks/best_practice_web_development_environment_for_osx/"> approaches</a> for how you could go about doing this. This post is my suggestion for getting things set up relatively quickly and efficiently.  This post is not the _definitve_ way to get things set up. I'm not going to deep dive into some of the tangental topics that are spawned here. Those things are fodder for another post in the future. As always, you should always use the methods that works best for you.
+A couple weeks ago <a href="https://tonyvoorhees.github.io/">Tony Voorhees</a> asked me if I could help him get his laptop set up to do web development with javascript. Because I was looking for an opportunity to document my process I agreed to help him out. I'm still not entirely sure why I chose to write this because it's not like there are a ton of <a href="https://mallinson.ca/osx-web-development/">really</a> <a href="https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/">good</a> <a href="https://www.reddit.com/r/webdev/comments/45mkks/best_practice_web_development_environment_for_osx/"> methods</a> which have been documented already. I suppose that this is one of those _It's not what you do it's how you do it_ types of things.  I digress... 
 
+If you follow the suggestions in this post then you should get things set up relatively quickly. The process is meant to be as efficient as possible, but you should always use the methods that works best for you. This is one of those things that has a lot of flexibility.
 
 _![Mr. Tony Voorhees](/images/tony.jpg)_
 
-<a href="http://tonyvoorhees.com/">Tony Voorhees</a> is a San Francisco based artist, art director, and designer. He's been a friend and colleauge for just about twenty years now. He has over a decade of experience designing systems for small businesses, design agencies and product companies.  His most recent position was on the design team at <a href="https://www.draftkings.com/">Draftkings</a>.
-
-<a href="/about">I</a> am the author of this website, and (more importantly) am <a href="https://www.instagram.com/explore/tags/zainabkosoy/">Zainab's</a> dad.
+<a href="http://tonyvoorhees.com/">Tony Voorhees</a> is a San Francisco based artist, art director, and designer. He's been a friend and colleauge for just about twenty years now. He has over a decade of experience designing systems for small businesses, design agencies and product companies.  His most recent position was on the design team at <a href="https://www.draftkings.com/">Draftkings</a>. He's currently in a search for new employment opportunities.  Yo companies:<a href="mailto:hello@tonyvoorhees.com">Hit him up</a>.
 
 ## Tony's workflow status quo. 
 
-Tony mostly does interaction design, and because of that he hadn't spent much time adjusting his workflow.  It was easiest for him to use <a href="https://www.mamp.info/">MAMP</a> to do web development on his laptop. When his work was in a state of completion he would use an FTP app like <a href="https://panic.com/transmit/">Transmit</a> to transfer files to a server.  While this method can be leveraged successfully, there are other techniques that Tony could use to do this stuff.
+Tony mostly does interaction design, and because of that he hadn't spent much time adjusting his workflow over the years. He's been rocking <a href="https://www.mamp.info/">MAMP</a> to do web development on his laptop. When his work was in a state of completion he would use an FTP app like <a href="https://panic.com/transmit/">Transmit</a> to transfer files to a server. While this method can be leveraged successfully, there are other techniques that Tony could use to do things more efficiently.
 
-Tony's a designer. He was put off by how the new-fangled tools are meant to work. I don't blame him. Using the terminal can be a bit overwhelming if you aren't used to it. The mamp GUI can be helpful to quickly configure and maintain a webserver. However it is much more efficient to use the terminal to do these things, and as I explained to Tony it's really easy once you understand the fundamentals.
+Since Tony is a designer He was put off by how the new-fangled tools that developers are meant to work with. I don't blame him either.  It's hectic out there. Using the terminal can be a bit overwhelming if you aren't used to it. The MAMP GUI can be helpful, too. However it is much more efficient to use the terminal to do these things, and as I explained to Tony it's really easy once you understand the fundamentals.
 
 ## Terminal life and Laptop. 
 
