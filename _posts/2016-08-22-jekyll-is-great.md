@@ -2,7 +2,7 @@
 layout:     post
 title:      Using the Jekyll for the website.
 date:       2016-08-22 00:00:00
-summary:    My take on how to get started with Jekyll.
+summary:    My take on how to get started using the static site generator Jekyll.
 ---
 
 ## TL;DR: 
