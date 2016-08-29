@@ -2,7 +2,7 @@
 layout:     post
 title:      The hecka tight laptop set up method.
 date:       2016-07-21 00:00:00
-summary:    Tony Voorhees asked what my best practices are for getting a front end web development environment configured on a mac laptop. This summarizes my technique.
+summary:    A very fast way to get up and running with a local web development environment on a new Mac
 ---
 
 ## TL;DR: 
