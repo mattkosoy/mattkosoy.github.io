@@ -9,6 +9,10 @@ summary:    My take on how to get started using the static site generator Jekyll
 * <a href="https://git-scm.com/">Git</a> for all of the things, especially deployment.
 * <a href="https://jekyllrb.com/">Jekyll</a> is great. 
 
+<div class="embed">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YZ5TT-ND4mQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Okay then
 
 <a href="/process/2016/07/20/hecka-tight-method-for-doing-web-development/">I helped my buddy <a href="https://tonyvoorhees.github.io/">Tony</a> got a whole bunch of softwares installed that will make it easy for us to do web development.</a> We customized the look of our CLI, and added some aliases to our environment that will help us save time. Now we can  install a <a href="https://davidwalsh.name/introduction-static-site-generators">static site generator</a>, and then start to create content. I would get into the specifics of what a static site generator is, but many other people have done so already. Therefore I will simply offer some details into Tony's specific scenario.
