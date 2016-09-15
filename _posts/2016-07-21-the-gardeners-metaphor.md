@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The Gardener's Metaphor
+title:      The Gardener's comparisson
 date:       2016-07-28 00:00:00
 summary:    A holistic apporach to managing, migrating, and mitigating legacy systems.
 categories: opinion
@@ -9,11 +9,13 @@ published: false
 
 ## Introduction 
 
-* set the stage. 
-* describe why we need a metaphor.
-* common metaphors - home construction
-* what's wrong w/ construction:  software is alive.
-* ( use 2 images )
+Doing web development is rewarding, but not without it's challenges.  The most challenging part of doing projects is communicating. Even though we have all of the fancy platforms for communicationg it is still incredibly challenging to articulate technical things to non-technical people. I've always used comparissons to help fill in the gaps wherever possible. For the most part this has been successful.
+
+Very often I've encountered the use of `home construction` as a comparisson to help explain things. At my <a href="https://www.specialized.com">last job</a> the CFO used this comparisson multiple times a day. She would ask us if we're "painting the walls" or "messing with the plumbing". The problem with these comparissons is that code is `alive` and a completed building project is not.
+
+What do I mean by "alive"?  I mean, specifically, that even after launch code needs to be refactored for performance improvements,  for bug fixes, and for adding new features.  A completed construction project is completely done upon delivery. Usually at the time of launch a new web project is only just beginning to be built.
+
+A better comparisson is one about gardening. 
 
 
 ## Preparing the site
@@ -61,7 +63,7 @@ List of benefits for turning the soil
 
 ## Conclusion
 
-* summarize the key points of the metaphor
+* summarize the key points of the comparisson
 1. Remove weeds so that they don't grow back.
 2. Preparing the space will allow for more healthy growth.
 3. 

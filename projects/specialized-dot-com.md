@@ -97,6 +97,6 @@ _[Pull requests were approved IRL](/images/approved.jpg)_
 ## Conclusive results.
 In hindsight, it didn't really make much sense to spend all of that time doing custom software development for the ecommerce functionality. We spent months and months of time building features that have already been created.  We should have made the switch to an ecommerce platform, and then focused on UX and UI improvments.
 
-On the upside we did see a substatial decrease in the bounce rate on our site, especially on mobile devices. We saw an increae in the amount of time spent on each page.  We also, after a big marketing push, saw an uptick in the number of ecommerce transactions that were completed.
+On the upside we did see a substatial decrease in the bounce rate on our site, especially on mobile devices. We saw an increase in the amount of time spent on each page.  We also, after a big marketing push, saw an uptick in the number of ecommerce transactions that were completed.
 
 Creating Specialized.com was one of the biggest challenges that i have faced in my career. I was, and still continue to be, appreciative of the opportunity to work on it, and with such wonderful people.  The lessons I learned, and experiences I had are ones that will continue to enrich my life for the years to come. I'm looking forward to the next one.
